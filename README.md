@@ -1,6 +1,6 @@
-## Space_X Project
+# Space_X Project
 
-### Learning of GraphQL With React & Apollo 
+## Learning of GraphQL With React & Apollo + Stacked Pull Requests using client side tool, spr
 ### https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx
 
 #### [1] Express GraphQL Server
