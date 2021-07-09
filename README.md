@@ -4,7 +4,7 @@
 ### https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx
 
 #### [1] Express GraphQL Server
-##### <img width="943" alt="Screen Shot 2021-07-09 at 11 05 21 AM" src="https://user-images.githubusercontent.com/29718034/125123516-9c39df80-e0ab-11eb-8b22-d0ef6c7cf1f7.png">
+##### <img width="400" alt="Screen Shot 2021-07-09 at 11 05 21 AM" src="https://user-images.githubusercontent.com/29718034/125123516-9c39df80-e0ab-11eb-8b22-d0ef6c7cf1f7.png">
 
 
 #### [2] React & Apollo Setup (FrontEnd)
