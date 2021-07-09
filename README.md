@@ -4,13 +4,18 @@
 ### https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx
 
 #### [1] Express GraphQL Server
-#### [2] React & Apollo Setup
+##### file:///Users/alexoh/Desktop/Screen%20Shot%202021-07-09%20at%2011.05.21%20AM.png
+
+#### [2] React & Apollo Setup (FrontEnd)
 #### [3] GraphQL with React & Apollo - Finalizing the app
 #### [4] GraphQL with React & Apollo - Simple Heroku Deploy
 
 ### Resources used
-##### Github Express-GraphQL https://github.com/graphql/express-graphql
-##### Github SpaceX Rest APII https://github.com/r-spacex/SpaceX-API
+
 ##### GraphQL https://graphql.org/
+##### Github Express-GraphQL https://github.com/graphql/express-graphql
+##### npm express-graphQL https://www.npmjs.com/package/express-graphql
+##### Github SpaceX Rest API https://github.com/r-spacex/SpaceX-API
 #####
 #####
+
