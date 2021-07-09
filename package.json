@@ -1,0 +1,29 @@
+{
+  "name": "space_x",
+  "version": "1.0.0",
+  "description": "App that lists SpaceX launch missions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunghyupoh3517/Space_X.git"
+  },
+  "author": "Seunghyup Alex Oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seunghyupoh3517/Space_X/issues"
+  },
+  "homepage": "https://github.com/seunghyupoh3517/Space_X#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}
