@@ -4,7 +4,8 @@
 ### https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx
 
 #### [1] Express GraphQL Server
-##### file:///Users/alexoh/Desktop/Screen%20Shot%202021-07-09%20at%2011.05.21%20AM.png
+##### Screen Shot 2021-07-09 at 11.05.21 AM.png![Uploading Screen Shot 2021-07-09 at 11.05.21 AM.png…]()
+
 
 #### [2] React & Apollo Setup (FrontEnd)
 #### [3] GraphQL with React & Apollo - Finalizing the app
