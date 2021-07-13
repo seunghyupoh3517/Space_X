@@ -1,6 +1,7 @@
 const axios = require('axios');
 
 // All the GraphQL obejcts will go in here - any type we would like to use
+// specifies whatever types of objects we would like to use
 const { GraphQLObjectType, 
         GraphQLInt, 
         GraphQLString, 
@@ -34,6 +35,8 @@ const RocketType = new GraphQLObjectType({
 });
 
 // Root Query - end point of resolver which will resolve our data
+// resolve: resolves a value for a type or field in the scehma
+// when it is scalar value - end of the execution 
 const RootQuery = new GraphQLObjectType({
     name: 'RootQueryType',
     fields: {
@@ -76,6 +79,22 @@ const RootQuery = new GraphQLObjectType({
         }
     }
 });
+
+/*
+GraphQL Aliases - multiple data objects to fetch
+
+query getUsers {
+  launch1: launch(flight_number: 1){
+    launch_year
+    launch_success
+  }
+  
+  launch2 : launch(flight_number:2){
+    launch_year
+    launch_success
+  }
+}
+*/
 
 // export graphql schema
 module.exports = new GraphQLSchema({
