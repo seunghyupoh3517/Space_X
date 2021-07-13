@@ -1,6 +1,6 @@
 # Space_X Project
 
-## Learning of GraphQL With React & Apollo + Stacked Pull Requests using client side tool, spr + Heroku deployment
+## Learning Goal of GraphQL With React & Apollo + Stacked Pull Requests using client side tool, spr + Heroku deployment
 ### https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx
 
 #### [1] Express GraphQL Server
@@ -18,5 +18,5 @@
 ##### npm express-graphQL https://www.npmjs.com/package/express-graphql
 ##### Github SpaceX Rest API https://github.com/r-spacex/SpaceX-API
 ##### Bootswatch https://bootswatch.com/
-##### XXXX
+#####
 
