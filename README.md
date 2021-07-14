@@ -10,7 +10,9 @@
 </p>
           
 #### [2] React & Apollo Setup (FrontEnd)
-##### <img width="1527" alt="Screen Shot 2021-07-14 at 8 46 37 AM" src="https://user-images.githubusercontent.com/29718034/125651827-6c2f2143-b5d9-4e73-8388-bef7b9aa413a.png">
+<p align="center">
+          <img width="1527" alt="Screen Shot 2021-07-14 at 8 46 37 AM" src="https://user-images.githubusercontent.com/29718034/125651827-6c2f2143-b5d9-4e73-8388-bef7b9aa413a.png">
+</p>
 
 #### [3] GraphQL with React & Apollo - Finalizing the app
 #### [4] GraphQL with React & Apollo - Simple Heroku Deploy
