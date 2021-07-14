@@ -1,3 +1,4 @@
+
 # Space_X Project
 
 ## Learning Goal of GraphQL With React & Apollo + Stacked Pull Requests using client side tool, spr + Heroku deployment
@@ -7,6 +8,8 @@
 ##### <img width="800" height="300" alt="Screen Shot 2021-07-09 at 11 05 21 AM" src="https://user-images.githubusercontent.com/29718034/125123516-9c39df80-e0ab-11eb-8b22-d0ef6c7cf1f7.png">
 
 #### [2] React & Apollo Setup (FrontEnd)
+##### <img width="1527" alt="Screen Shot 2021-07-14 at 8 46 37 AM" src="https://user-images.githubusercontent.com/29718034/125651827-6c2f2143-b5d9-4e73-8388-bef7b9aa413a.png">
+
 #### [3] GraphQL with React & Apollo - Finalizing the app
 #### [4] GraphQL with React & Apollo - Simple Heroku Deploy
 
