@@ -30,5 +30,5 @@
 ##### Bootswatch https://bootswatch.com/
 ##### Apollo GraphQl - React https://www.apollographql.com/docs/react/
 ##### React Hooks https://reactjs.org/docs/hooks-overview.html
-##### 
+##### Credited: https://github.com/bradtraversy/spacex_launch_stats
 
