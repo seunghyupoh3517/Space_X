@@ -15,6 +15,9 @@
 </p>
 
 #### [3] GraphQL with React & Apollo - Finalizing the app
+###### npm i classnames momment react-momnet
+###### npm i react-router-dom
+
 #### [4] GraphQL with React & Apollo - Simple Heroku Deploy
 
 
